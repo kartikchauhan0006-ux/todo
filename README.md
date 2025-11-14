@@ -15,14 +15,12 @@ A simple, elegant, and fully functional **Todo List App** built with **React**. 
 - **Star Important Tasks:** Highlight important tasks with a star.  
 - **Sort by Star:** Sort tasks so that starred tasks appear at the top.  
 - **Clear Finished Tasks:** Remove all completed tasks at once.  
-- **Drag & Drop Reordering:** Rearrange tasks effortlessly with drag-and-drop.  
 - **Persistent Storage:** Tasks are saved locally in your browser.
 
 ## Tech Stack 🛠️
 
 - **Frontend:** React, Hooks  
 - **Styling:** SCSS  
-- **Drag & Drop:** react-beautiful-dnd  
 - **Unique IDs:** uuid  
 - **Persistent Storage:** Local Storage  
 
