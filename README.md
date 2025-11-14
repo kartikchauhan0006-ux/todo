@@ -31,13 +31,13 @@ A simple, elegant, and fully functional **Todo List App** built with **React**. 
 ## Clone the repository
 git clone https://github.com/kartikchauhan0006-ux/todo.git
 
-Navigate to the project directory
+## Navigate to the project directory
 cd todo
 
-Install project dependencies
+## Install project dependencies
 npm install
 
-Start the Vite development server
+## Start the Vite development server
 npm run dev
 
 After starting, Vite will display the local development URL, typically:
