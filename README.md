@@ -1,6 +1,6 @@
 # Todo List App 📝
 
-A simple, elegant, and fully functional **Todo List App** built with **React**. Manage your tasks efficiently with features like adding, editing, deleting, marking as done, starring important tasks, sorting, and drag-and-drop reordering.  
+A simple, elegant, and fully functional **Todo List App** built with **React**. Manage your tasks efficiently with features like adding, editing, deleting, marking as done, starring important tasks, and sorting.  
 
 
 
