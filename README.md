@@ -28,18 +28,19 @@ A simple, elegant, and fully functional **Todo List App** built with **React**. 
 
 ---
 
-# Clone the repository
-git clone https://github.com/yourusername/your-repo.git
+## Clone the repository
+git clone https://github.com/kartikchauhan0006-ux/todo.git
 
-# Navigate to the project folder
-cd your-repo
+Navigate to the project directory
+cd todo
 
-# Install dependencies
+Install project dependencies
 npm install
 
-# Start the development server (Vite)
+Start the Vite development server
 npm run dev
 
-# Vite will show the local URL in the terminal, usually:
+After starting, Vite will display the local development URL, typically:
 # http://localhost:5173
+
 
